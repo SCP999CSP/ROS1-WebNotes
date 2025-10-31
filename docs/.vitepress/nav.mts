@@ -1,5 +1,6 @@
 export default[ 
     { text: 'Home', link: '/' },
+    { text: 'Roboparks主站', link: 'https://roboparks.com/' },
     { text: 'Linux笔记', link: '/markdown-examples' },
     { text: 'Python笔记', link: '/markdown-examples' },
     { text: 'OpenCV笔记', link: '/markdown-examples' },

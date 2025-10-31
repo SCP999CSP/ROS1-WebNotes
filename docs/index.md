@@ -8,16 +8,16 @@ hero:
   tagline: My great project tagline 
 
   image:
-    src: .\images\1\vscode.gif
+    src: /vscode.gif
     alt: scp1
 
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /第 1 章 ROS概述与环境搭建
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 视频教程
+      link: https://www.bilibili.com/
 
 features:
   - title: Linux入门
