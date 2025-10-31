@@ -5,7 +5,7 @@ import nav from './nav.mts'
 export default defineConfig({
   title: "Ros1Note",
   description: "For student learning",
-  head:[["link",{rel:"icon",href:"/favicon.ico"}]],
+  head:[["link",{rel:"icon",href:"/2.ico"}]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
