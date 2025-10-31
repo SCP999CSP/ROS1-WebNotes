@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as _,af as l}from"./chunks/framework.Dbg6IRTl.js";const f=JSON.parse('{"title":"2.7 本章小结","description":"","frontmatter":{},"headers":[],"relativePath":"2.7 本章小结.md","filePath":"2.7 本章小结.md"}'),i={name:"2.7 本章小结.md"};function r(o,e,n,s,p,c){return _(),t("div",null,[...e[0]||(e[0]=[l("",6)])])}const m=a(i,[["render",r]]);export{f as __pageData,m as default};

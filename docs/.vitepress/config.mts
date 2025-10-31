@@ -5,6 +5,7 @@ import nav from './nav.mts'
 export default defineConfig({
   title: "Ros1Note",
   description: "For student learning",
+  head:[["link",{rel:"icon",href:"/favicon.ico"}]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
@@ -55,10 +56,11 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '1.5.1 ROS文件系统', link: '/1.5.1 ROS文件系统' },
-              { text: '1.4.2 安装VScode', link: '/1.4.2 安装VScode' },
-              { text: '1.4.3 launch文件演示', link: '/1.4.3 launch文件演示' },
+              { text: '1.5.2 ROS文件系统相关命令', link: '/1.5.2 ROS文件系统相关命令' },
+              { text: '1.5.3 ROS计算图', link: '/1.5.3 ROS计算图' },
             ]
            },
+           { text: '1.6 本章小结', link: '/1.6 本章小结'},
         ]
       },
 

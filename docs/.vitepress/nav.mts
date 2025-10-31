@@ -1,8 +1,9 @@
 export default[ 
     { text: 'Home', link: '/' },
-    { text: 'Ros笔记', link: '/markdown-examples' },
-    { text: 'Ros笔记', link: '/markdown-examples' },
-    { text: 'Ros笔记', link: '/markdown-examples' },
+    { text: 'Linux笔记', link: '/markdown-examples' },
+    { text: 'Python笔记', link: '/markdown-examples' },
+    { text: 'OpenCV笔记', link: '/markdown-examples' },
+    { text: 'Ros笔记', link: '/第 1 章 ROS概述与环境搭建' },
     { text: 'Language',
         items:[
             {text: 'le français', link: '/markdown-examples'},

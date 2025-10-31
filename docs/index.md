@@ -8,7 +8,7 @@ hero:
   tagline: My great project tagline 
 
   image:
-    src: ../211.jpg
+    src: .\images\1\vscode.gif
     alt: scp1
 
   actions:
@@ -20,10 +20,12 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Linux入门
+    details: Linux入门
+    link: /api-examples
+    
+  - title: Python基础
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: OpenCV初级
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
