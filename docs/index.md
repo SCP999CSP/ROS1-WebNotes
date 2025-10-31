@@ -5,7 +5,12 @@ layout: home
 hero:
   name: "Ros1Note"
   text: "For student learning"
-  tagline: My great project tagline
+  tagline: My great project tagline 
+
+  image:
+    src: ../211.jpg
+    alt: scp1
+
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +27,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
