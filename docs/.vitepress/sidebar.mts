@@ -118,12 +118,12 @@ export default{
               { text: '1.1.3 Evolution of ROS', link: '/Language/English/1.1.3 Evolution of ROS' }
             ]
            },
-           { text: '1.2 ROS安装', 
-            link: '/Language/English/1.2 ROS安装',
+           { text: '1.2 Installing ROS', 
+            link: '/Language/English/1.2 Installing ROS',
             collapsed: true,
             items: [
-              { text: '1.2.1 安装 ROS', link: '/Language/English/1.2.1 安装 ROS' },
-              { text: '1.2.2 测试 ROS', link: '/Language/English/1.2.2 测试 ROS' }
+              { text: '1.2.1 Installing ROS', link: '/Language/English/1.2.1 Installing ROS' },
+              { text: '1.2.2 Testing ROS', link: '/Language/English/1.2.2 Testing ROS' }
             ]
            },
            { text: '1.3 ROS快速体验', 
