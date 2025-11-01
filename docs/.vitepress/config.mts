@@ -15,7 +15,7 @@ export default defineConfig({
 
     socialLinks: [  
       { icon: 'github', link: 'https://github.com/SCP999CSP/ROS-WebNotes' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' },
+      { icon: 'youtube', link: 'https://twitter.com/youyuxi' },
       { icon: 'linkedin', link: '' }
     ]
   }

@@ -16,7 +16,7 @@ hero:
       text: ▶Start Reading
       link: /Language/English/1 ROS Overview and Environment Setup
     - theme: alt
-      text: 视频教程
+      text: Video Tutorials
       link: https://www.bilibili.com/
 
 features:
