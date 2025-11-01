@@ -13,8 +13,8 @@ hero:
 
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /第 1 章 ROS概述与环境搭建
+      text: ▶Start Reading
+      link: /Language/English/1 ROS Overview and Environment Setup
     - theme: alt
       text: 视频教程
       link: https://www.bilibili.com/
