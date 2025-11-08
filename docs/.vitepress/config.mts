@@ -4,7 +4,7 @@ import sidebar from './sidebar.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Ros1Note",
+  title: "RoboParks Note",
   description: "For student learning",
   head:[["link",{rel:"icon",href:"/2.ico"}]],
   themeConfig: {

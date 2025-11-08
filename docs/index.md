@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Ros1Note"
-  text: "For student learning"
-  tagline: My great project tagline 
+  name: "General Education Courses"
+  text: "......."
+  tagline: .......
 
   image:
     src: /vscode.gif
@@ -13,19 +13,22 @@ hero:
 
   actions:
     - theme: brand
-      text: ▶Start Reading
+      text: ▶ Start Reading
       link: /Language/English/1 ROS Overview and Environment Setup
     - theme: alt
       text: Video Tutorials
       link: https://www.bilibili.com/
 
 features:
-  - title: Linux入门
-    details: Linux入门
+  - title: Roboparks
+    details: about Roboparks
     link: /api-examples
     
-  - title: Python基础
+  - title: Fira
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: OpenCV初级
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /api-examples
+    
+  - title: Join our Summer Campus
+    details: About our summer Campus
+    link: /api-examples
 ---
