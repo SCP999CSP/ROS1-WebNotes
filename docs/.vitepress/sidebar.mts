@@ -128,50 +128,50 @@ export default{
             link: '/Language/ROS1/English/1.3 Quick ROS Experience',
             collapsed: true,
             items: [
-              { text: '1.3.1 HelloWorld实现简介', link: '/Language/ROS1/English/1.3.1 HelloWorld实现简介' },
+              { text: '1.3.1 HelloWorld Overview', link: '/Language/ROS1/English/1.3.1 HelloWorld Implementation Overview' },
               { text: '1.3.2 HelloWorld', link: '/Language/ROS1/English/1.3.2 HelloWorld' }
             ]
            },
-          { text: '1.4 ROS集成开发环境搭建', 
-            link: '/Language/ROS1/English/1.4 ROS集成开发环境搭建',
+          { text: '1.4 ROS Dev Env Setup', 
+            link: '/Language/ROS1/English/1.4 ROS Integrated Development Environment Setup',
             collapsed: true,
             items: [
-              { text: '1.4.1 安装终端', link: '/Language/ROS1/English/1.4.1 安装终端' },
-              { text: '1.4.2 安装VScode', link: '/Language/ROS1/English/1.4.2 安装VScode' },
-              { text: '1.4.3 launch文件演示', link: '/Language/ROS1/English/1.4.3 launch文件演示' },
+              { text: '1.4.1 Terminal Installation', link: '/Language/ROS1/English/1.4.1 Terminal Installation' },
+              { text: '1.4.2 Installing VScode', link: '/Language/ROS1/English/1.4.2 Installing VScode' },
+              { text: '1.4.3 Launch File', link: '/Language/ROS1/English/1.4.3 Launch File Demonstration' },
             ]
            },
-           { text: '1.5 ROS架构', 
-            link: '/Language/ROS1/English/1.5 ROS架构',
+           { text: '1.5 ROS Architecture', 
+            link: '/Language/ROS1/English/1.5 ROS Architecture',
             collapsed: true,
             items: [
-              { text: '1.5.1 ROS文件系统', link: '/Language/中文/1.5.1 ROS文件系统' },
-              { text: '1.5.2 ROS文件系统相关命令', link: '/Language/中文/1.5.2 ROS文件系统相关命令' },
-              { text: '1.5.3 ROS计算图', link: '/Language/中文/1.5.3 ROS计算图' },
+              { text: '1.5.1 ROS File System', link: '/Language/ROS1/English/1.5.1 ROS File System' },
+              { text: '1.5.2 Filesystem Commands', link: '/Language/ROS1/English/1.5.2 ROS Filesystem Related Commands' },
+              { text: '1.5.3 Computation Graph', link: '/Language/ROS1/English/1.5.3 ROS Computation Graph' },
             ]
            },
-           { text: '1.6 本章小结', link: '/Language/中文/1.6 本章小结'},
+           { text: '1.6 Chapter Summary', link: '/Language/ROS1/English/1.6 Chapter Summary'},
         ]
       },
 
 
       {
-        text: '第 2 章 ROS通信机制',
-        link: '/Language/中文/2 ROS通信机制',
+        text: 'Chapter 2 ROS Communication Mechanisms',
+        link: '/Language/ROS1/English/Chapter 2 ROS Communication Mechanisms',
         items: [
-          { text: '2.1 话题通信', link: '/Language/中文/2.1 话题通信',collapsed: true,
+          { text: '2.1 Topic Communication', link: '/Language/ROS1/English/2.1 Topic Communication',collapsed: true,
             items: [
-               { text: '2.1.1 话题通信理论模型', link: '/Language/中文/2.1.1 话题通信理论模型' },
-               { text: '2.1.2 话题通信基本操作', link: '/Language/中文/2.1.2 话题通信基本操作' },
-               { text: '2.1.3 话题通信自定义msg', link: '/Language/中文/2.1.3 话题通信自定义msg' },
-               { text: '2.1.4 话题通信自定义msg调用', link: '/Language/中文/2.1.4 话题通信自定义msg调用' }
+               { text: '2.1.1 Topic Communication Theoretical Model', link: '/Language/ROS1/English/2.1.1 Topic Communication Theoretical Model' },
+               { text: '2.1.2 Topic Communication Basic Operations', link: '/Language/ROS1/English/2.1.2 Topic Communication Basic Operations' },
+               { text: '2.1.3 Topic Communication Custom msg', link: '/Language/ROS1/English/2.1.3 Topic Communication Custom msg' },
+               { text: '2.1.4 Topic Communication Custom msg Call', link: '/Language/ROS1/English/2.1.4 Topic Communication Custom msg Call' }
             ]
           },
-          { text: '2.2 服务通信', link: '/Language/中文/2.2 服务通信',collapsed: true,
+          { text: '2.2 Service Communication', link: '/Language/ROS1/English/2.2 Service Communication',collapsed: true,
             items: [
-                { text: '2.2.1 服务通信理论模型', link: '/Language/中文/2.2.1 服务通信理论模型' },
-                { text: '2.2.2 服务通信自定义srv', link: '/Language/中文/2.2.2 服务通信自定义srv' },
-                { text: '2.2.3 服务通信自定义srv调用', link: '/Language/中文/2.2.3服务通信自定义srv调用' },
+                { text: '2.2.1 Service Communication Theoretical Model', link: '/Language/ROS1/English/2.2.1 Service Communication Theoretical Model' },
+                { text: '2.2.2 Service Communication Custom srv', link: '/Language/ROS1/English/2.2.2 Service Communication Custom srv' },
+                { text: '2.2.3 Service Communication Custom srv Call', link: '/Language/ROS1/English/2.2.3 Service Communication Custom srv Call' },
             ]
            },
           { text: '2.3 参数服务器', link: '/Language/中文/2.3 参数服务器',collapsed: true,

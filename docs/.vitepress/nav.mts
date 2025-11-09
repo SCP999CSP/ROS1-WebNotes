@@ -3,8 +3,8 @@ export default[
     { text: 'Home', link: '/' },
     { text: 'Linux', link: '/markdown-examples' },
     { text: 'Python', link: '/markdown-examples' },
-    { text: 'OpenCV', link: '/markdown-examples' },
-    { text: 'ROS1', link: '/Language/English/1 ROS Overview and Environment Setup' },
+    { text: 'OpenCV', link: '/Language/ROS1/English/1 ROS Overview and Environment Setup' },
+    { text: 'ROS1', link: '/Language/ROS1/English/1 ROS Overview and Environment Setup' },
     { text: 'Language',
         items:[
             {text: 'le français', link: '/markdown-examples'},
